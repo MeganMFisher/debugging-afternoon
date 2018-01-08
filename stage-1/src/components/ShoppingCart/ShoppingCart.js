@@ -2,7 +2,8 @@ import React, { Component } from 'react';
 import './ShoppingCart.css';
 
 class ShoppingCart extends Component {
-    costructor(props) {
+    //Must spell constructor correctly
+    constructor(props) {
         super(props);
 
         this.state = {
